@@ -70,6 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
  -->
-#This was a question asked in the facebook interview
+# This was a question asked in the facebook interview
 
-##Question : There are 2 divs and n number of checkboxes in one of the div. Write a react code to select the desired number of checkboxes and move them to the other div using `Left` and `Right` buttons
+## Question : There are 2 divs and n number of checkboxes in one of the div. Write a react code to select the desired number of checkboxes and move them to the other div using `Left` and `Right` buttons
